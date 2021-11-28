@@ -1,0 +1,24 @@
+[submodule "deps/lib-util-c"]
+	path = deps/lib-util-c
+	url = https://github.com/tonygleck/lib-util-c
+[submodule "deps/patchcords"]
+	path = deps/patchcords
+	url = https://github.com/tonygleck/patchcords.git
+[submodule "deps/umock-c"]
+	path = deps/umock-c
+	url = https://github.com/Azure/umock-c.git
+[submodule "deps/macro-utils-c"]
+	path = deps/macro-utils-c
+	url = https://github.com/Azure/macro-utils-c.git
+[submodule "deps/ctest"]
+	path = deps/ctest
+	url = https://github.com/Azure/ctest.git
+[submodule "deps/c-testrunnerswitcher"]
+	path = deps/c-testrunnerswitcher
+	url = https://github.com/Azure/c-testrunnerswitcher.git
+[submodule "deps/c-logging"]
+	path = deps/c-logging
+	url = https://github.com/Azure/c-logging.git
+[submodule "deps/c-build-tools"]
+	path = deps/c-build-tools
+	url = https://github.com/Azure/c-build-tools.git
